@@ -27,7 +27,7 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('My Grid View'),
+        title: Text('Feryal Putra Ragil - 201011401724'),
       ),
       body: GridView.count(
         crossAxisCount: 3,
